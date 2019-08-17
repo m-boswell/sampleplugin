@@ -17,4 +17,4 @@ This project creates a custom post type for adding host bios. Besides title and 
 meta box which will also appear with GET request in the REST API. This plugin is fully internationalized.
 
 == Installation ==
-Please install the plugin by signing into your wordpress admin dashboard, click on plugins, add new, drag and drop this plugin and click install.
+Please install the plugin by signing into your wordpress admin dashboard, click on plugins, add new, drag and drop this plugin (compressed zipped folder) and click install.
